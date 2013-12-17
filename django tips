@@ -1,0 +1,5 @@
+python manage.py sql Reviews
+python manage.py sqlindexes Reviews
+
+
+
