@@ -1,5 +1,8 @@
 python manage.py sql Reviews
 python manage.py sqlindexes Reviews
 
+git remote add origin https://github.com/ugik/Reviews.git
+git pull origin master
+git push origin master
 
 
